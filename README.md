@@ -4,7 +4,7 @@
 * 获取chatgpt api key
  
 ## 快速使用
-1. 安装`go install github.com/byebyebruce/wx_chatgptbot`
+1. 安装`go install github.com/byebyebruce/wx_chatgptbot@latest`
 2. 运行 `wx_chatgptbot --api_key=${YOU_KEY}`
 3. 扫码登陆
 4. 找别人给你发送消息 `/gpt 如何才能成为世界首富`
